@@ -1,0 +1,23 @@
+{
+  "name": "day0",
+  "version": "1.0.0",
+  "description": "day0 repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olarewajuakeemope/day0.git"
+  },
+  "author": "olarewaju opeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olarewajuakeemope/day0/issues"
+  },
+  "homepage": "https://github.com/olarewajuakeemope/day0#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
